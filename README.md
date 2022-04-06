@@ -1,10 +1,10 @@
 # 2022_text_mining
 Algorithm-based analysis methods for discovering meaning structures from unstructured or weakly structured text data.
 
-90% of data today has been created in the last two years.
-235 million emails sent per day
-3.8 million Google searches performed each minute
-1.7 megabytes of new information created every second, per person
+- 90% of data today has been created in the last two years.
+- 235 million emails sent per day
+- 3.8 million Google searches performed each minute
+- 1.7 megabytes of new information created every second, per person
 
 = An immense amount of data, new and old, is recorded as text.
 ➥ More generally, much of this data is unstructured
